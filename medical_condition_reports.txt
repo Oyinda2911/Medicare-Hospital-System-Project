@@ -1,0 +1,8 @@
+MEDICARE HOSPITAL - MEDICAL CONDITIONS REPORT
+============================================
+Diagnosis: malaria
+Number of Cases: 1
+========================================
+Diagnosis: Pregnancy
+Number of Cases: 1
+========================================

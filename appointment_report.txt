@@ -1,0 +1,26 @@
+MEDICARE HOSPITAL - APPOINTMENT REPORT
+=====================================
+Appointment ID: 10
+Patient ID: 3
+Doctor ID: 1
+Date: 2026-09-01
+Time: 12:00
+Reason: fever
+Status: Scheduled
+=================================
+Appointment ID: 88
+Patient ID: 77
+Doctor ID: 11
+Date: 2026-09-05
+Time: 3:00
+Reason: constant headache
+Status: Scheduled
+=================================
+Appointment ID: 100
+Patient ID: 1
+Doctor ID: 1
+Date: 2026-09-9
+Time: 2:00
+Reason: cold
+Status: Scheduled
+=================================

@@ -1,0 +1,20 @@
+MEDICARE HOSPITAL -PATIENT MEDICAL HISTORY
+=========================================
+Record ID: 4
+Patient ID: 5
+Doctor ID: 1
+Diagnosis: malaria
+Symptoms: cold
+Prescription: artemeter
+Notes: medications only
+Date of visit: 2026-29-1
+==============================
+Record ID: 6
+Patient ID: 1
+Doctor ID: 1
+Diagnosis: Pregnancy
+Symptoms: vomitting
+Prescription: vitamin-c
+Notes: Patient is advised to sleep well
+Date of visit: 2026-12-2
+==============================
